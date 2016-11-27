@@ -12,5 +12,7 @@ public class MainActivity extends AppCompatActivity {
 
         int i=2;
 
+        //splash screen branch 
+
     }
 }
